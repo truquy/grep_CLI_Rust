@@ -5,7 +5,8 @@ edition = "2021"
 
 license-file = "LICENSE.txt"
 description = "copy contains of given file to another."
-homepage = "https://github.com/truquy/grep_CLI_Rust"
+homepage = "https://github.com/truquy"
+repository = "https://github.com/truquy/grep_CLI_Rust"
 
 [dependencies]
 
